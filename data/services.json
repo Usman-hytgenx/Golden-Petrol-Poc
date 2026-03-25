@@ -1,0 +1,44 @@
+{
+  "riyadh-main": {
+    "oilChange": { "count": 38, "revenue": 5320, "avgPrice": 140 },
+    "filterChange": { "count": 16, "revenue": 2080, "avgPrice": 130 },
+    "tireRotation": { "count": 10, "revenue": 1500, "avgPrice": 150 },
+    "topUp": { "count": 5, "revenue": 500, "avgPrice": 100 },
+    "fullService": { "count": 3, "revenue": 900, "avgPrice": 300 }
+  },
+  "jeddah-north": {
+    "oilChange": { "count": 28, "revenue": 3920, "avgPrice": 140 },
+    "filterChange": { "count": 12, "revenue": 1560, "avgPrice": 130 },
+    "tireRotation": { "count": 8, "revenue": 1200, "avgPrice": 150 },
+    "topUp": { "count": 4, "revenue": 400, "avgPrice": 100 },
+    "fullService": { "count": 6, "revenue": 1800, "avgPrice": 300 }
+  },
+  "dammam-1": {
+    "oilChange": { "count": 33, "revenue": 4620, "avgPrice": 140 },
+    "filterChange": { "count": 14, "revenue": 1820, "avgPrice": 130 },
+    "tireRotation": { "count": 9, "revenue": 1350, "avgPrice": 150 },
+    "topUp": { "count": 3, "revenue": 300, "avgPrice": 100 },
+    "fullService": { "count": 4, "revenue": 1200, "avgPrice": 300 }
+  },
+  "riyadh-east": {
+    "oilChange": { "count": 22, "revenue": 3080, "avgPrice": 140 },
+    "filterChange": { "count": 9, "revenue": 1170, "avgPrice": 130 },
+    "tireRotation": { "count": 6, "revenue": 900, "avgPrice": 150 },
+    "topUp": { "count": 3, "revenue": 300, "avgPrice": 100 },
+    "fullService": { "count": 4, "revenue": 1200, "avgPrice": 300 }
+  },
+  "khobar": {
+    "oilChange": { "count": 26, "revenue": 3640, "avgPrice": 140 },
+    "filterChange": { "count": 11, "revenue": 1430, "avgPrice": 130 },
+    "tireRotation": { "count": 7, "revenue": 1050, "avgPrice": 150 },
+    "topUp": { "count": 4, "revenue": 400, "avgPrice": 100 },
+    "fullService": { "count": 3, "revenue": 900, "avgPrice": 300 }
+  },
+  "medina": {
+    "oilChange": { "count": 35, "revenue": 4900, "avgPrice": 140 },
+    "filterChange": { "count": 15, "revenue": 1950, "avgPrice": 130 },
+    "tireRotation": { "count": 9, "revenue": 1350, "avgPrice": 150 },
+    "topUp": { "count": 5, "revenue": 500, "avgPrice": 100 },
+    "fullService": { "count": 3, "revenue": 900, "avgPrice": 300 }
+  }
+}

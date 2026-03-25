@@ -1,0 +1,44 @@
+{
+  "riyadh-main": [
+    { "item": "5W-30 Synthetic Oil", "current": 45, "min": 20, "unit": "L", "status": "ok" },
+    { "item": "10W-40 Semi-Synthetic", "current": 18, "min": 20, "unit": "L", "status": "low" },
+    { "item": "Air Filter (Standard)", "current": 12, "min": 10, "unit": "pcs", "status": "ok" },
+    { "item": "Oil Filter", "current": 8, "min": 10, "unit": "pcs", "status": "low" },
+    { "item": "Coolant", "current": 30, "min": 15, "unit": "L", "status": "ok" }
+  ],
+  "jeddah-north": [
+    { "item": "5W-30 Synthetic Oil", "current": 12, "min": 20, "unit": "L", "status": "critical" },
+    { "item": "10W-40 Semi-Synthetic", "current": 8, "min": 20, "unit": "L", "status": "critical" },
+    { "item": "Air Filter (Standard)", "current": 6, "min": 10, "unit": "pcs", "status": "low" },
+    { "item": "Oil Filter", "current": 4, "min": 10, "unit": "pcs", "status": "critical" },
+    { "item": "Coolant", "current": 22, "min": 15, "unit": "L", "status": "ok" }
+  ],
+  "dammam-1": [
+    { "item": "5W-30 Synthetic Oil", "current": 38, "min": 20, "unit": "L", "status": "ok" },
+    { "item": "10W-40 Semi-Synthetic", "current": 24, "min": 20, "unit": "L", "status": "ok" },
+    { "item": "Air Filter (Standard)", "current": 9, "min": 10, "unit": "pcs", "status": "low" },
+    { "item": "Oil Filter", "current": 14, "min": 10, "unit": "pcs", "status": "ok" },
+    { "item": "Coolant", "current": 16, "min": 15, "unit": "L", "status": "ok" }
+  ],
+  "riyadh-east": [
+    { "item": "5W-30 Synthetic Oil", "current": 20, "min": 20, "unit": "L", "status": "ok" },
+    { "item": "10W-40 Semi-Synthetic", "current": 15, "min": 20, "unit": "L", "status": "low" },
+    { "item": "Air Filter (Standard)", "current": 11, "min": 10, "unit": "pcs", "status": "ok" },
+    { "item": "Oil Filter", "current": 7, "min": 10, "unit": "pcs", "status": "low" },
+    { "item": "Coolant", "current": 18, "min": 15, "unit": "L", "status": "ok" }
+  ],
+  "khobar": [
+    { "item": "5W-30 Synthetic Oil", "current": 33, "min": 20, "unit": "L", "status": "ok" },
+    { "item": "10W-40 Semi-Synthetic", "current": 21, "min": 20, "unit": "L", "status": "ok" },
+    { "item": "Air Filter (Standard)", "current": 13, "min": 10, "unit": "pcs", "status": "ok" },
+    { "item": "Oil Filter", "current": 9, "min": 10, "unit": "pcs", "status": "low" },
+    { "item": "Coolant", "current": 14, "min": 15, "unit": "L", "status": "low" }
+  ],
+  "medina": [
+    { "item": "5W-30 Synthetic Oil", "current": 50, "min": 20, "unit": "L", "status": "ok" },
+    { "item": "10W-40 Semi-Synthetic", "current": 28, "min": 20, "unit": "L", "status": "ok" },
+    { "item": "Air Filter (Standard)", "current": 15, "min": 10, "unit": "pcs", "status": "ok" },
+    { "item": "Oil Filter", "current": 12, "min": 10, "unit": "pcs", "status": "ok" },
+    { "item": "Coolant", "current": 25, "min": 15, "unit": "L", "status": "ok" }
+  ]
+}

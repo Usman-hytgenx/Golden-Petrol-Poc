@@ -1,0 +1,68 @@
+{
+  "riyadh-main": [
+    { "hour": "8AM", "cars": 4, "revenue": 560 },
+    { "hour": "9AM", "cars": 7, "revenue": 980 },
+    { "hour": "10AM", "cars": 9, "revenue": 1260 },
+    { "hour": "11AM", "cars": 10, "revenue": 1400 },
+    { "hour": "12PM", "cars": 6, "revenue": 840 },
+    { "hour": "1PM", "cars": 8, "revenue": 1120 },
+    { "hour": "2PM", "cars": 11, "revenue": 1540 },
+    { "hour": "3PM", "cars": 9, "revenue": 1260 },
+    { "hour": "4PM", "cars": 8, "revenue": 840 }
+  ],
+  "jeddah-north": [
+    { "hour": "8AM", "cars": 3, "revenue": 420 },
+    { "hour": "9AM", "cars": 5, "revenue": 700 },
+    { "hour": "10AM", "cars": 7, "revenue": 980 },
+    { "hour": "11AM", "cars": 8, "revenue": 1120 },
+    { "hour": "12PM", "cars": 5, "revenue": 700 },
+    { "hour": "1PM", "cars": 6, "revenue": 840 },
+    { "hour": "2PM", "cars": 9, "revenue": 1260 },
+    { "hour": "3PM", "cars": 8, "revenue": 700 },
+    { "hour": "4PM", "cars": 7, "revenue": 480 }
+  ],
+  "dammam-1": [
+    { "hour": "8AM", "cars": 4, "revenue": 560 },
+    { "hour": "9AM", "cars": 6, "revenue": 840 },
+    { "hour": "10AM", "cars": 8, "revenue": 1120 },
+    { "hour": "11AM", "cars": 9, "revenue": 1260 },
+    { "hour": "12PM", "cars": 5, "revenue": 700 },
+    { "hour": "1PM", "cars": 7, "revenue": 980 },
+    { "hour": "2PM", "cars": 10, "revenue": 1400 },
+    { "hour": "3PM", "cars": 8, "revenue": 840 },
+    { "hour": "4PM", "cars": 6, "revenue": 400 }
+  ],
+  "riyadh-east": [
+    { "hour": "8AM", "cars": 2, "revenue": 280 },
+    { "hour": "9AM", "cars": 4, "revenue": 560 },
+    { "hour": "10AM", "cars": 6, "revenue": 840 },
+    { "hour": "11AM", "cars": 7, "revenue": 980 },
+    { "hour": "12PM", "cars": 4, "revenue": 560 },
+    { "hour": "1PM", "cars": 5, "revenue": 700 },
+    { "hour": "2PM", "cars": 7, "revenue": 980 },
+    { "hour": "3PM", "cars": 6, "revenue": 560 },
+    { "hour": "4PM", "cars": 3, "revenue": 140 }
+  ],
+  "khobar": [
+    { "hour": "8AM", "cars": 3, "revenue": 420 },
+    { "hour": "9AM", "cars": 5, "revenue": 700 },
+    { "hour": "10AM", "cars": 7, "revenue": 980 },
+    { "hour": "11AM", "cars": 8, "revenue": 1120 },
+    { "hour": "12PM", "cars": 4, "revenue": 560 },
+    { "hour": "1PM", "cars": 6, "revenue": 840 },
+    { "hour": "2PM", "cars": 8, "revenue": 1120 },
+    { "hour": "3PM", "cars": 7, "revenue": 560 },
+    { "hour": "4PM", "cars": 3, "revenue": 200 }
+  ],
+  "medina": [
+    { "hour": "8AM", "cars": 5, "revenue": 700 },
+    { "hour": "9AM", "cars": 7, "revenue": 980 },
+    { "hour": "10AM", "cars": 9, "revenue": 1260 },
+    { "hour": "11AM", "cars": 10, "revenue": 1400 },
+    { "hour": "12PM", "cars": 6, "revenue": 840 },
+    { "hour": "1PM", "cars": 8, "revenue": 1120 },
+    { "hour": "2PM", "cars": 10, "revenue": 1400 },
+    { "hour": "3PM", "cars": 8, "revenue": 840 },
+    { "hour": "4PM", "cars": 4, "revenue": 360 }
+  ]
+}

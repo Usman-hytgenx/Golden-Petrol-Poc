@@ -1,0 +1,46 @@
+{
+  "riyadh-main": [
+    { "id": 1, "name": "Ahmed Khalid", "jobsCompleted": 14, "avgServiceTime": 17, "status": "working", "shiftStart": "08:00", "revenue": 1960 },
+    { "id": 2, "name": "Mohammed Saleh", "jobsCompleted": 13, "avgServiceTime": 19, "status": "working", "shiftStart": "08:00", "revenue": 1820 },
+    { "id": 3, "name": "Yusuf Mansour", "jobsCompleted": 12, "avgServiceTime": 18, "status": "working", "shiftStart": "08:00", "revenue": 1680 },
+    { "id": 4, "name": "Ali Rashed", "jobsCompleted": 11, "avgServiceTime": 20, "status": "working", "shiftStart": "08:00", "revenue": 1540 },
+    { "id": 5, "name": "Omar Fahad", "jobsCompleted": 15, "avgServiceTime": 16, "status": "working", "shiftStart": "08:00", "revenue": 2100 },
+    { "id": 6, "name": "Hamza Noor", "jobsCompleted": 7, "avgServiceTime": 18, "status": "break", "shiftStart": "08:00", "revenue": 980 }
+  ],
+  "jeddah-north": [
+    { "id": 1, "name": "Hassan Amer", "jobsCompleted": 9, "avgServiceTime": 28, "status": "working", "shiftStart": "08:00", "revenue": 1260 },
+    { "id": 2, "name": "Bilal Turki", "jobsCompleted": 10, "avgServiceTime": 25, "status": "working", "shiftStart": "08:00", "revenue": 1400 },
+    { "id": 3, "name": "Salman Badr", "jobsCompleted": 8, "avgServiceTime": 27, "status": "working", "shiftStart": "08:00", "revenue": 1120 },
+    { "id": 4, "name": "Rami Chadi", "jobsCompleted": 11, "avgServiceTime": 23, "status": "working", "shiftStart": "08:00", "revenue": 1540 },
+    { "id": 5, "name": "Zaid Farhan", "jobsCompleted": 6, "avgServiceTime": 30, "status": "break", "shiftStart": "08:00", "revenue": 840 },
+    { "id": 6, "name": "Khaled Imran", "jobsCompleted": 14, "avgServiceTime": 22, "status": "working", "shiftStart": "08:00", "revenue": 1960 }
+  ],
+  "dammam-1": [
+    { "id": 1, "name": "Ziad Hamad", "jobsCompleted": 13, "avgServiceTime": 19, "status": "working", "shiftStart": "08:00", "revenue": 1820 },
+    { "id": 2, "name": "Nawaf Jaber", "jobsCompleted": 14, "avgServiceTime": 18, "status": "working", "shiftStart": "08:00", "revenue": 1960 },
+    { "id": 3, "name": "Turki Loai", "jobsCompleted": 12, "avgServiceTime": 20, "status": "working", "shiftStart": "08:00", "revenue": 1680 },
+    { "id": 4, "name": "Majed Nami", "jobsCompleted": 11, "avgServiceTime": 21, "status": "working", "shiftStart": "08:00", "revenue": 1540 },
+    { "id": 5, "name": "Walid Petra", "jobsCompleted": 13, "avgServiceTime": 18, "status": "break", "shiftStart": "08:00", "revenue": 1820 }
+  ],
+  "riyadh-east": [
+    { "id": 1, "name": "Fahad Qasim", "jobsCompleted": 9, "avgServiceTime": 26, "status": "working", "shiftStart": "08:00", "revenue": 1260 },
+    { "id": 2, "name": "Badr Rakan", "jobsCompleted": 10, "avgServiceTime": 25, "status": "working", "shiftStart": "08:00", "revenue": 1400 },
+    { "id": 3, "name": "Hamad Saoud", "jobsCompleted": 8, "avgServiceTime": 29, "status": "idle", "shiftStart": "08:00", "revenue": 1120 },
+    { "id": 4, "name": "Dhiyab Turki", "jobsCompleted": 7, "avgServiceTime": 28, "status": "idle", "shiftStart": "08:00", "revenue": 980 },
+    { "id": 5, "name": "Meshal Umar", "jobsCompleted": 10, "avgServiceTime": 27, "status": "working", "shiftStart": "08:00", "revenue": 1400 }
+  ],
+  "khobar": [
+    { "id": 1, "name": "Sami Talib", "jobsCompleted": 11, "avgServiceTime": 21, "status": "working", "shiftStart": "08:00", "revenue": 1540 },
+    { "id": 2, "name": "Adel Usama", "jobsCompleted": 12, "avgServiceTime": 20, "status": "working", "shiftStart": "08:00", "revenue": 1680 },
+    { "id": 3, "name": "Khaled Vali", "jobsCompleted": 10, "avgServiceTime": 22, "status": "working", "shiftStart": "08:00", "revenue": 1400 },
+    { "id": 4, "name": "Faris Wael", "jobsCompleted": 9, "avgServiceTime": 23, "status": "working", "shiftStart": "08:00", "revenue": 1260 },
+    { "id": 5, "name": "Ghassan Xari", "jobsCompleted": 9, "avgServiceTime": 21, "status": "break", "shiftStart": "08:00", "revenue": 1260 }
+  ],
+  "medina": [
+    { "id": 1, "name": "Yousef Xtari", "jobsCompleted": 15, "avgServiceTime": 16, "status": "working", "shiftStart": "08:00", "revenue": 2100 },
+    { "id": 2, "name": "Rashid Yacob", "jobsCompleted": 14, "avgServiceTime": 17, "status": "working", "shiftStart": "08:00", "revenue": 1960 },
+    { "id": 3, "name": "Saad Zubair", "jobsCompleted": 13, "avgServiceTime": 18, "status": "working", "shiftStart": "08:00", "revenue": 1820 },
+    { "id": 4, "name": "Wael Ayman", "jobsCompleted": 14, "avgServiceTime": 17, "status": "working", "shiftStart": "08:00", "revenue": 1960 },
+    { "id": 5, "name": "Loai Bassem", "jobsCompleted": 11, "avgServiceTime": 18, "status": "working", "shiftStart": "08:00", "revenue": 1540 }
+  ]
+}

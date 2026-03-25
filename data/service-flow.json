@@ -1,0 +1,67 @@
+{
+  "activeVehicles": [
+    {
+      "id": "v001",
+      "plate": "ABC-1234",
+      "make": "Toyota Camry",
+      "serviceType": "Full Oil Change + Filter",
+      "advisor": "Ahmed Khalid",
+      "currentStep": 4,
+      "totalAmount": 185,
+      "addOns": ["Cabin Filter Replacement"],
+      "steps": [
+        { "id": 1, "label": "Arrival & Check-in", "description": "Vehicle arrived and customer details logged", "time": "14:05", "duration": "2 min", "status": "done", "person": "Reception" },
+        { "id": 2, "label": "Job Card Opened", "description": "Service order created, vehicle inspection noted", "time": "14:07", "duration": "3 min", "status": "done", "person": "Ahmed Khalid" },
+        { "id": 3, "label": "Bay Assigned", "description": "Assigned to Bay 2, technician ready", "time": "14:10", "duration": "1 min", "status": "done", "person": "Supervisor" },
+        { "id": 4, "label": "Service In Progress", "description": "Oil drain, filter replacement underway", "time": "14:11", "duration": "~15 min", "status": "active", "person": "Mohammed S." },
+        { "id": 5, "label": "Add-on Logged", "description": "Cabin filter change recommended and approved", "time": "—", "duration": "~5 min", "status": "pending", "person": "Mohammed S." },
+        { "id": 6, "label": "Payment Processed", "description": "Invoice generated, payment completed", "time": "—", "duration": "~3 min", "status": "pending", "person": "Cashier" },
+        { "id": 7, "label": "Job Closed", "description": "Vehicle released, job card closed in system", "time": "—", "duration": "~1 min", "status": "pending", "person": "Reception" }
+      ]
+    },
+    {
+      "id": "v002",
+      "plate": "XYZ-5678",
+      "make": "Nissan Patrol",
+      "serviceType": "Oil Change",
+      "advisor": "Omar Fahad",
+      "currentStep": 6,
+      "totalAmount": 160,
+      "addOns": [],
+      "steps": [
+        { "id": 1, "label": "Arrival & Check-in", "description": "Vehicle arrived and customer details logged", "time": "13:40", "duration": "2 min", "status": "done", "person": "Reception" },
+        { "id": 2, "label": "Job Card Opened", "description": "Service order created", "time": "13:42", "duration": "2 min", "status": "done", "person": "Omar Fahad" },
+        { "id": 3, "label": "Bay Assigned", "description": "Assigned to Bay 5", "time": "13:44", "duration": "1 min", "status": "done", "person": "Supervisor" },
+        { "id": 4, "label": "Service In Progress", "description": "Oil change completed", "time": "13:45", "duration": "16 min", "status": "done", "person": "Omar Fahad" },
+        { "id": 5, "label": "Add-on Logged", "description": "No add-ons requested", "time": "14:01", "duration": "—", "status": "done", "person": "—" },
+        { "id": 6, "label": "Payment Processed", "description": "Customer paying at cashier", "time": "14:02", "duration": "~3 min", "status": "active", "person": "Cashier" },
+        { "id": 7, "label": "Job Closed", "description": "Awaiting vehicle release", "time": "—", "duration": "~1 min", "status": "pending", "person": "Reception" }
+      ]
+    },
+    {
+      "id": "v003",
+      "plate": "DEF-9012",
+      "make": "Toyota Land Cruiser",
+      "serviceType": "Filter Change + Top-up",
+      "advisor": "Yusuf Mansour",
+      "currentStep": 3,
+      "totalAmount": 210,
+      "addOns": ["Coolant Top-up"],
+      "steps": [
+        { "id": 1, "label": "Arrival & Check-in", "description": "Vehicle arrived and customer details logged", "time": "14:18", "duration": "2 min", "status": "done", "person": "Reception" },
+        { "id": 2, "label": "Job Card Opened", "description": "Service order created", "time": "14:20", "duration": "2 min", "status": "done", "person": "Yusuf Mansour" },
+        { "id": 3, "label": "Bay Assigned", "description": "Assigned to Bay 3, moving now", "time": "14:22", "duration": "~1 min", "status": "active", "person": "Supervisor" },
+        { "id": 4, "label": "Service In Progress", "description": "Pending bay clearance", "time": "—", "duration": "~18 min", "status": "pending", "person": "Yusuf M." },
+        { "id": 5, "label": "Add-on Logged", "description": "Coolant top-up pre-approved", "time": "—", "duration": "~5 min", "status": "pending", "person": "Yusuf M." },
+        { "id": 6, "label": "Payment Processed", "description": "Awaiting service completion", "time": "—", "duration": "~3 min", "status": "pending", "person": "Cashier" },
+        { "id": 7, "label": "Job Closed", "description": "Awaiting completion", "time": "—", "duration": "~1 min", "status": "pending", "person": "Reception" }
+      ]
+    }
+  ],
+  "waitingQueue": [
+    { "id": "w001", "plate": "GHI-3456", "make": "Hyundai Sonata", "serviceType": "Oil Change", "waitTime": "12 min", "priority": "normal" },
+    { "id": "w002", "plate": "JKL-7890", "make": "Kia Sportage", "serviceType": "Filter Change", "waitTime": "8 min", "priority": "normal" },
+    { "id": "w003", "plate": "MNO-2244", "make": "Toyota Corolla", "serviceType": "Full Service", "waitTime": "5 min", "priority": "vip" },
+    { "id": "w004", "plate": "PQR-5566", "make": "Ford Explorer", "serviceType": "Oil Change", "waitTime": "3 min", "priority": "normal" }
+  ]
+}

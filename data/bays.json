@@ -1,0 +1,46 @@
+{
+  "riyadh-main": [
+    { "id": 1, "label": "Bay 1", "status": "active", "technician": "Ahmed K.", "vehicle": "ABC-1234", "serviceType": "Oil Change", "startTime": "14:10", "estimatedEnd": "14:28" },
+    { "id": 2, "label": "Bay 2", "status": "active", "technician": "Mohammed S.", "vehicle": "XYZ-5678", "serviceType": "Full Service", "startTime": "14:05", "estimatedEnd": "14:30" },
+    { "id": 3, "label": "Bay 3", "status": "active", "technician": "Yusuf M.", "vehicle": "DEF-9012", "serviceType": "Filter Change", "startTime": "14:18", "estimatedEnd": "14:32" },
+    { "id": 4, "label": "Bay 4", "status": "waiting", "technician": "Ali R.", "vehicle": "GHI-3456", "serviceType": "Oil Change", "startTime": "14:22", "estimatedEnd": "14:40" },
+    { "id": 5, "label": "Bay 5", "status": "active", "technician": "Omar F.", "vehicle": "JKL-7890", "serviceType": "Tire Rotation", "startTime": "14:15", "estimatedEnd": "14:35" },
+    { "id": 6, "label": "Bay 6", "status": "idle", "technician": null, "vehicle": null, "serviceType": null, "startTime": null, "estimatedEnd": null }
+  ],
+  "jeddah-north": [
+    { "id": 1, "label": "Bay 1", "status": "active", "technician": "Hassan A.", "vehicle": "MNO-1122", "serviceType": "Oil Change", "startTime": "14:00", "estimatedEnd": "14:26" },
+    { "id": 2, "label": "Bay 2", "status": "active", "technician": "Bilal T.", "vehicle": "PQR-3344", "serviceType": "Full Service", "startTime": "13:55", "estimatedEnd": "14:28" },
+    { "id": 3, "label": "Bay 3", "status": "maintenance", "technician": null, "vehicle": null, "serviceType": "Equipment Repair", "startTime": null, "estimatedEnd": null },
+    { "id": 4, "label": "Bay 4", "status": "active", "technician": "Salman B.", "vehicle": "STU-5566", "serviceType": "Filter Change", "startTime": "14:12", "estimatedEnd": "14:38" },
+    { "id": 5, "label": "Bay 5", "status": "waiting", "technician": "Rami C.", "vehicle": "VWX-7788", "serviceType": "Oil Change", "startTime": "14:20", "estimatedEnd": "14:46" },
+    { "id": 6, "label": "Bay 6", "status": "idle", "technician": null, "vehicle": null, "serviceType": null, "startTime": null, "estimatedEnd": null }
+  ],
+  "dammam-1": [
+    { "id": 1, "label": "Bay 1", "status": "active", "technician": "Ziad H.", "vehicle": "YZA-2233", "serviceType": "Oil Change", "startTime": "14:14", "estimatedEnd": "14:33" },
+    { "id": 2, "label": "Bay 2", "status": "active", "technician": "Nawaf J.", "vehicle": "BCD-4455", "serviceType": "Oil Change", "startTime": "14:08", "estimatedEnd": "14:27" },
+    { "id": 3, "label": "Bay 3", "status": "active", "technician": "Turki L.", "vehicle": "EFG-6677", "serviceType": "Full Service", "startTime": "14:02", "estimatedEnd": "14:32" },
+    { "id": 4, "label": "Bay 4", "status": "active", "technician": "Majed N.", "vehicle": "HIJ-8899", "serviceType": "Filter Change", "startTime": "14:19", "estimatedEnd": "14:34" },
+    { "id": 5, "label": "Bay 5", "status": "active", "technician": "Walid P.", "vehicle": "KLM-0011", "serviceType": "Tire Rotation", "startTime": "14:16", "estimatedEnd": "14:36" }
+  ],
+  "riyadh-east": [
+    { "id": 1, "label": "Bay 1", "status": "active", "technician": "Fahad Q.", "vehicle": "NOP-2244", "serviceType": "Full Service", "startTime": "14:00", "estimatedEnd": "14:27" },
+    { "id": 2, "label": "Bay 2", "status": "active", "technician": "Badr R.", "vehicle": "QRS-4466", "serviceType": "Oil Change", "startTime": "14:10", "estimatedEnd": "14:37" },
+    { "id": 3, "label": "Bay 3", "status": "waiting", "technician": "Hamad S.", "vehicle": "TUV-6688", "serviceType": "Oil Change", "startTime": "14:24", "estimatedEnd": "14:51" },
+    { "id": 4, "label": "Bay 4", "status": "idle", "technician": null, "vehicle": null, "serviceType": null, "startTime": null, "estimatedEnd": null },
+    { "id": 5, "label": "Bay 5", "status": "idle", "technician": null, "vehicle": null, "serviceType": null, "startTime": null, "estimatedEnd": null }
+  ],
+  "khobar": [
+    { "id": 1, "label": "Bay 1", "status": "active", "technician": "Sami T.", "vehicle": "WXY-8800", "serviceType": "Oil Change", "startTime": "14:11", "estimatedEnd": "14:32" },
+    { "id": 2, "label": "Bay 2", "status": "active", "technician": "Adel U.", "vehicle": "ZAB-1133", "serviceType": "Filter Change", "startTime": "14:06", "estimatedEnd": "14:27" },
+    { "id": 3, "label": "Bay 3", "status": "active", "technician": "Khaled V.", "vehicle": "CDE-3355", "serviceType": "Full Service", "startTime": "14:03", "estimatedEnd": "14:33" },
+    { "id": 4, "label": "Bay 4", "status": "waiting", "technician": "Faris W.", "vehicle": "FGH-5577", "serviceType": "Oil Change", "startTime": "14:21", "estimatedEnd": "14:42" },
+    { "id": 5, "label": "Bay 5", "status": "idle", "technician": null, "vehicle": null, "serviceType": null, "startTime": null, "estimatedEnd": null }
+  ],
+  "medina": [
+    { "id": 1, "label": "Bay 1", "status": "active", "technician": "Yousef X.", "vehicle": "IJK-7799", "serviceType": "Oil Change", "startTime": "14:15", "estimatedEnd": "14:32" },
+    { "id": 2, "label": "Bay 2", "status": "active", "technician": "Rashid Y.", "vehicle": "LMN-9911", "serviceType": "Oil Change", "startTime": "14:09", "estimatedEnd": "14:26" },
+    { "id": 3, "label": "Bay 3", "status": "active", "technician": "Saad Z.", "vehicle": "OPQ-2244", "serviceType": "Filter Change", "startTime": "14:17", "estimatedEnd": "14:34" },
+    { "id": 4, "label": "Bay 4", "status": "active", "technician": "Wael A.", "vehicle": "RST-4466", "serviceType": "Full Service", "startTime": "14:07", "estimatedEnd": "14:37" },
+    { "id": 5, "label": "Bay 5", "status": "active", "technician": "Loai B.", "vehicle": "UVW-6688", "serviceType": "Tire Rotation", "startTime": "14:20", "estimatedEnd": "14:37" }
+  ]
+}
